@@ -11,11 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/cleitongrodrigues/intro_node.git"
   },
-  "keywords": ["NodeJS","Introdução"],
+  "keywords": [
+    "NodeJS",
+    "Introdução"
+  ],
   "author": "Cleiton",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cleitongrodrigues/intro_node/issues"
   },
-  "homepage": "https://github.com/cleitongrodrigues/intro_node#readme"
+  "homepage": "https://github.com/cleitongrodrigues/intro_node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
